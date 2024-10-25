@@ -1,1 +1,1 @@
-# semana_06
+# week_6
